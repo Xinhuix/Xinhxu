@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Xinhxu:war">
+    <output-path>$PROJECT_DIR$/Xinhxu/target</output-path>
+    <root id="archive" name="Xinhxu.war">
+      <element id="artifact" artifact-name="Xinhxu:war exploded" />
+    </root>
+  </artifact>
+</component>
